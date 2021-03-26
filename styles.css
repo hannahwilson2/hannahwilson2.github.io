@@ -1,0 +1,8 @@
+body {
+ text-align: center;
+ border: 1px solid black;
+}
+img {
+border-radius: 50%;
+border: 2px solid black;
+}
