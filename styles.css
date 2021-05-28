@@ -1,13 +1,13 @@
 body {
  text-align: center;
  border: 1px solid white;
- background-colour: lilac;
+ background-colour: purple;
  background-repeat: no-repeat;
  background-attachment: fixed;  
  background-size: cover;
- font-family: Comic Sans;
+ font-family: Helvetica;
 }
 
 .img-beach {
- width: 50px;
+ width: 100px;
 }
