@@ -1,1 +1,1 @@
-document.getElementById("clickable").onclick = function() {alert('hi')};
+document.getElementById("clickable").onclick = function() {alert('Happy Birthday Noah!')};
