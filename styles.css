@@ -8,6 +8,10 @@ body {
  font-family: Helvetica;
 }
 
+p {
+ background-colour: #CAA3F7;
+}
+
 .img-beach {
- width: 800px;
+ width: 600px;
 }
