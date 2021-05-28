@@ -1,7 +1,7 @@
 body {
  text-align: center;
  border: 1px solid white;
- background-image: url(Noah.jpg);
+ background-image: url(Noah.jpg); 
  background-repeat: no-repeat;
  background-attachment: fixed;  
  background-size: cover;
