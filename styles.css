@@ -10,10 +10,11 @@ body {
 }
 
 
-.img-beach {
- width: 600px;
+.img-wrapper {    
+    max-width: 1200px;
+    margin-bottom: 30px;
 }
 
-.img-euro {
- width: 450px;
+.img-wrapper img { 
+    width: 100%;
 }
