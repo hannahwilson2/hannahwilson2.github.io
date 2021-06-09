@@ -13,8 +13,13 @@ body {
 .img-wrapper {    
     max-width: 1200px;
     margin-bottom: 30px;
+    transition: all 400ms ease-in-out;
 }
 
 .img-wrapper img { 
     width: 100%;
+}
+
+.img-wrapper:hover { 
+    transform: scale(1.3);  
 }
